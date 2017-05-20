@@ -17,8 +17,6 @@ Mainz,GER,25.7,2,10.8
 M'gladbach,GER,25.7,2.6,15.9
 Tottenham,ENG,25.8,2.97,13.6
 Dortmund,GER,25.9,3.15,14.8
-Hamburg,GER,2614,1.9,0
-Bordeaux,FRA,2619,1.86,25.6
 Frankfurt,GER,26.2,2.03,12.5
 Real Betis,ESP,26.2,1.77,20.6
 Wolfsburg,GER,26.3,2.72,21.1
@@ -44,10 +42,6 @@ Lille,FRA,26.96,2.42,8
 Metz,FRA,27.03,1.37,22.8
 Sporting Gijon,ESP,27.04,2.62,26.7
 Athletic Club,ESP,27.09,4.15,64
-Sassuolo,ITA,2711,2.1,6.5
-Genoa,ITA,2712,1.48,5.6
-Angers,FRA,2717,1.84,7.8
-Roma,ITA,2718,2.45,5.9
 Empoli,ITA,27.2,2.08,15.2
 Udinese,ITA,27.22,2.21,7.7
 Ingolstadt,GER,27.24,2.61,0
@@ -81,8 +75,6 @@ Hull City,ENG,27.82,2.03,1
 Swansea City,ENG,27.85,2.24,0
 Marseille,FRA,27.88,0.89,7.6
 Internazionale,ITA,28.01,2.05,0.6
-Guingamp,FRA,2817,1.99,12.7
-Dijon,FRA,2819,216,3.51
 Crystal Palace,ENG,28.2,2.22,8.2
 RC Deportivo,ESP,28.25,1.78,1.8
 Leicester City,ENG,28.26,2.92,5.7
@@ -90,9 +82,17 @@ Burnley,ENG,28.28,2.59,0
 Bayern Munchen,GER,28.52,4.59,28.3
 Darmstadt,GER,28.53,1.84,0
 Cagliari,ITA,29,1.77,11.2
-Caen,FRA,2910,2.18,17.5
-Stoke City,ENG,2915,3.3,0.2
-Manchester City,ENG,2917,3.57,0
 Watford,ENG,29.37,1.71,1.41
 Juventus,ITA,29.52,3.9,4.5
-West Bromwich,ENG,3018,3.64,0.1
+Hamburg,GER,26.14,1.9,0
+Bordeaux,FRA,26.19,1.86,25.6
+Sassuolo,ITA,27.11,2.1,6.5
+Genoa,ITA,27.12,1.48,5.6
+Angers,FRA,27.17,1.84,7.8
+Roma,ITA,27.18,2.45,5.9
+Guingamp,FRA,28.17,1.99,12.7
+Dijon,FRA,28.19,216,3.51
+Caen,FRA,29.1,2.18,17.5
+Stoke City,ENG,29.15,3.3,0.2
+Manchester City,ENG,29.17,3.57,0
+West Bromwich,ENG,30.18,3.64,0.1
