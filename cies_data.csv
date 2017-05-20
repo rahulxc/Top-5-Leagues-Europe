@@ -1,0 +1,98 @@
+club,league,avgage,stability,mins_Perc
+Toulouse,FRA,23.8,1.83,40.3
+RB Leipzig,GER,24.4,1.72,0
+Leverkusen,GER,24.7,2.64,24.4
+Nice,FRA,24.9,1.08,18.1
+Granada CF,ESP,25,0.88,6.6
+Atalanta,ITA,25.2,1.22,23.1
+Nantes,FRA,25.3,1.92,38.5
+Freiburg,GER,25.3,2.2,22.9
+Hoffenheim,GER,25.4,2.21,22.4
+Milan,ITA,25.4,1.81,28
+Monaco,FRA,25.5,2.07,14.6
+Lyon,FRA,25.5,3.07,48.8
+Schalke,GER,25.6,2.82,35.6
+CD Alaves,ESP,25.7,1.19,3.8
+Mainz,GER,25.7,2,10.8
+M'gladbach,GER,25.7,2.6,15.9
+Tottenham,ENG,25.8,2.97,13.6
+Dortmund,GER,25.9,3.15,14.8
+Hamburg,GER,2614,1.9,0
+Bordeaux,FRA,2619,1.86,25.6
+Frankfurt,GER,26.2,2.03,12.5
+Real Betis,ESP,26.2,1.77,20.6
+Wolfsburg,GER,26.3,2.72,21.1
+Southampton,ENG,26.3,2.43,9.51
+Crotone,ITA,26.3,1.26,0
+Palermo,ITA,26.4,1.53,6.2
+Valencia CF,ESP,26.4,1.95,13.3
+Malaga CF,ESP,26.4,2.07,19.2
+Celta Vigo,ESP,26.4,2.65,27
+St-Etienne,FRA,26.5,2.82,12.1
+CA Osasuna,ESP,26.5,1.82,36.1
+Real Sociedad,ESP,26.5,4.21,49.8
+Liverpool,ENG,26.5,2.3,1
+Rennes,FRA,26.6,2.6,20.8
+Sampdoria,ITA,26.63,1.48,5.5
+Torino,ITA,26.68,1.2,6.9
+Lazio,ITA,26.72,2.89,7.7
+Cologne,GER,26.73,2.25,14.6
+CD Leganes,ESP,26.85,1.19,0
+Bologna,ITA,26.88,1.47,7.5
+PSG,FRA,26.96,3.17,13.3
+Lille,FRA,26.96,2.42,8
+Metz,FRA,27.03,1.37,22.8
+Sporting Gijon,ESP,27.04,2.62,26.7
+Athletic Club,ESP,27.09,4.15,64
+Sassuolo,ITA,2711,2.1,6.5
+Genoa,ITA,2712,1.48,5.6
+Angers,FRA,2717,1.84,7.8
+Roma,ITA,2718,2.45,5.9
+Empoli,ITA,27.2,2.08,15.2
+Udinese,ITA,27.22,2.21,7.7
+Ingolstadt,GER,27.24,2.61,0
+Villarreal CF,ESP,27.27,3.57,19.6
+Bastia,FRA,27.3,2.48,28.4
+Sevilla FC,ESP,27.3,1.6,9.1
+Montpellier,FRA,27.31,2.82,30.6
+Augsburg,GER,27.34,2.62,4.4
+Atletico Madrid,ESP,27.38,3.36,30.6
+Arsenal,ENG,27.38,3.46,25
+Pescara,ITA,27.4,1.41,0.4
+Bournemouth,ENG,27.42,3.28,0
+FC Barcelona,ESP,27.42,4.82,34.2
+SD Eibar,ESP,27.46,1.7,6.4
+Sunderland,ENG,27.49,1.87,7.2
+Napoli,ITA,27.5,3.1,8.4
+Manchester Utd,ENG,27.52,3.67,18.5
+Lorient,FRA,27.52,1.51,0.5
+West Ham Utd,ENG,27.58,2.55,6.1
+Everton,ENG,27.59,3.45,14
+Real Madrid,ESP,27.61,4.84,22.6
+Middlesbrough,ENG,27.64,1.55,13.8
+Chelsea,ENG,27.67,2.48,0.3
+UD Las Palmas,ESP,27.69,2.82,27.7
+Werder Bremen,GER,27.7,2.11,20.6
+RCD Espanyol,ESP,27.72,1.33,22.5
+Nancy,FRA,27.77,2.05,31.3
+Hertha Berlin,GER,27.78,2.99,10.2
+Fiorentina,ITA,27.78,2.15,14.3
+Hull City,ENG,27.82,2.03,1
+Swansea City,ENG,27.85,2.24,0
+Marseille,FRA,27.88,0.89,7.6
+Internazionale,ITA,28.01,2.05,0.6
+Guingamp,FRA,2817,1.99,12.7
+Dijon,FRA,2819,216,3.51
+Crystal Palace,ENG,28.2,2.22,8.2
+RC Deportivo,ESP,28.25,1.78,1.8
+Leicester City,ENG,28.26,2.92,5.7
+Burnley,ENG,28.28,2.59,0
+Bayern Munchen,GER,28.52,4.59,28.3
+Darmstadt,GER,28.53,1.84,0
+Cagliari,ITA,29,1.77,11.2
+Caen,FRA,2910,2.18,17.5
+Stoke City,ENG,2915,3.3,0.2
+Manchester City,ENG,2917,3.57,0
+Watford,ENG,29.37,1.71,1.41
+Juventus,ITA,29.52,3.9,4.5
+West Bromwich,ENG,3018,3.64,0.1
